@@ -5,6 +5,8 @@
 Open Command Prompt as administrator.
 - Click on the start button, search for `cmd` and then **run it with administrator rights**.
 
+![image 1](https://github.com/resourcesfree/free-resources/assets/60621494/c43cb9b0-5a44-401a-b17e-3e53b7143674)
+
 ### Step 2
 
 Install KMS client key. Use the command:
@@ -14,6 +16,8 @@ slmgr /ipk yourlicensekey
 ```
 
 to install a license key (yourlicensekey is the activation key that corresponds to your Windows edition).
+
+![image 2](https://github.com/resourcesfree/free-resources/assets/60621494/72e7a73d-2a86-4a12-8282-2f87a3c81548)
 
 #### The following is the list of Windows 10 Volume license keys.
 
@@ -38,6 +42,8 @@ Set KMS machine address. Use this command to connect to my KMS server:
 slmgr /skms kms8.msguides.com
 ```
 
+![image 3](https://github.com/resourcesfree/free-resources/assets/60621494/3ede8d10-51b0-4641-9bff-768efc104bf8)
+
 ### Step 4:
 
 Activate your Windows. The last step is to activate your Windows. Use this:
@@ -45,6 +51,8 @@ Activate your Windows. The last step is to activate your Windows. Use this:
 ```
 slmgr /ato
 ```
+
+![image 4](https://github.com/resourcesfree/free-resources/assets/60621494/fd906918-ff7d-4af4-b5f8-a9bca601b06a)
 
 ### Congratulations 🎉
 
