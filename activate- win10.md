@@ -2,7 +2,7 @@
 
 ### Step 1
 
-- Open Command Prompt as administrator.
+Open Command Prompt as administrator.
 - Click on the start button, search for `cmd` and then **run it with administrator rights**.
 
 ### Step 2
