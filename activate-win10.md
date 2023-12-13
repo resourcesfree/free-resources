@@ -11,7 +11,7 @@ Open Command Prompt as administrator.
 
 Install KMS client key. Use the command:
 
-```
+```sh
 slmgr /ipk yourlicensekey
 ```
 
@@ -38,7 +38,7 @@ to install a license key (yourlicensekey is the activation key that corresponds 
 
 Set KMS machine address. Use this command to connect to my KMS server:
 
-```
+```sh
 slmgr /skms kms8.msguides.com
 ```
 
@@ -48,7 +48,7 @@ slmgr /skms kms8.msguides.com
 
 Activate your Windows. The last step is to activate your Windows. Use this:
 
-```
+```sh
 slmgr /ato
 ```
 
